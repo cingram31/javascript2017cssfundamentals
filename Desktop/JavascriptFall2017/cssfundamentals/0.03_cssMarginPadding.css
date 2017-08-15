@@ -1,0 +1,11 @@
+body {
+	font-size: 24px;
+}
+.customDiv{
+	padding: 50px;
+}
+.customW{
+	width: 50%;
+	float: left; //raises the element and shifts it to a particular 
+	
+}
